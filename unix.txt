@@ -1,0 +1,21 @@
+ls: Command that allows you to view the files in the directory.
+cd: Command to change directory to which ever directory specified.
+cp: Copy a file name myfile.txt from one location to another location
+mv: Moves one or more files or directories from one place to another.
+rm: Remove files or directories from the system.
+mkdir: Makes a new directory.
+pwd: Displays the path of the directory or file you are currently in.
+man: Command which opens the unix manual
+cat: Command which reads a file and prints the output of the file.
+more: Command which displays the text in the file one screen at a time upon pressing the return key.
+grep: Command which is used to search for lines in a file containing a specific text 
+head: Command which prints the first 10 lines of output from a file.
+tail: Command which prints the last 10 lines of output from a file.
+chmod: Command which tells the system it may change the access permissions to a file or directory.
+ln: Command which creates a link for a file or directory.
+find: Command which finds the last file executed, find files that have last been modified, finds files in the current directory, and finds files based on size.
+rmdir: Command which removes an empty directory provided.
+wc: Command which reads the list of files and returns the line count, word count, and byte count.
+diff: Command which finds the differences between two files.
+tar: Command which compresses and uncompresses tar files.
+touch: Updates the access date of a file or directory.

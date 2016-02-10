@@ -1,0 +1,13 @@
+total 112
+drwxr-xr-x  1 Guest  _guest  16384 Jan 29 11:31 .
+drwx------@ 1 Guest  _guest  16384 Jan 29 10:54 ..
+-rw-r--r--@ 1 Guest  _guest   6148 Jan 29 11:29 .DS_Store
+drwxr-xr-x  1 Guest  _guest  16384 Jan 29 11:29 lab1
+-rw-r--r--  1 Guest  _guest      0 Jan 29 11:31 ls.out
+
+./lab1:
+total 80
+drwxr-xr-x  1 Guest  _guest  16384 Jan 29 11:29 .
+drwxr-xr-x  1 Guest  _guest  16384 Jan 29 11:31 ..
+-rw-r--r--  1 Guest  _guest    222 Jan 29 11:29 ls.out
+-rw-r--r--  1 Guest  _guest    462 Jan 29 11:23 unix.txt
